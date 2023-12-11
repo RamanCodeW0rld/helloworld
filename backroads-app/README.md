@@ -1,0 +1,1 @@
+this is simple page i have started to build with react. just to have clarity on basics xD
